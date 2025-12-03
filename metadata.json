@@ -1,0 +1,7 @@
+{
+  "name": "  AI-Lingo v3 (BR)",
+  "description": "Plataforma de ensino de inglês focada em falantes de Português Brasileiro, com feedback de pronúncia e gramática via IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
